@@ -526,6 +526,7 @@ repositories = [
   'github.com/bazelbuild/bazel',
   'github.com/containers/skopeo',
   'github.com/janko/vim-test',
+  'github.com/Arnav-Khare/Indecision',
   'github.com/valhalla/valhalla',
   'github.com/crate/crate',
   'github.com/cztomczak/cefpython',
